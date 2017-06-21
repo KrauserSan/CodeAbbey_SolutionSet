@@ -1,2 +1,3 @@
-# CodeAbbey_SolutionSet
-This repo contains my solutions to the problems present on the &lt;a href = "http://www.codeabbey.com/index/task_list">CodeAbbey&lt;/a> website.
+## CodeAbbey_SolutionSet
+
+This repository contains my solutions for the problems found on the <a href="http://www.codeabbey.com/index/task_list">CodeAbbey</a> website. <br>
